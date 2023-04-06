@@ -7,3 +7,11 @@ Weather Dashboard was created using Bootstrap, JavaScript and API calls. Using t
 ## Screenshot of Weather Dashboard
 
 ![Alt text](assets/images/weather-dashboard.png)
+
+## Link to Weather Dashboard
+
+https://jovaldez98.github.io/weather-dashboard/
+
+## Credits
+- David Park (Tutor)
+- Class activities
